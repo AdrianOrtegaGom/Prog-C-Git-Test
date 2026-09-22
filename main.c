@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Editat desde local")
+	HEAD
+	printf("Editat desde Local")
+
+	printf("Editat desde GitHub")
+
 	return 0;
 }
